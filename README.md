@@ -1,3 +1,4 @@
 # manager
 
-Mobile App - to manage work schedule of a workers. 
+Mobile App - here is example for login auth on Mobile App using firebase auth service. 
+
